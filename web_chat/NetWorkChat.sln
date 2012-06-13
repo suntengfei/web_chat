@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWorkChat", "NetWorkChat\NetWorkChat.csproj", "{FBAB1439-CFB9-49C2-BC2C-85895304199D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{E3EA414C-332D-44F1-8DFA-81986ED2E4F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObject", "DataObject\DataObject.csproj", "{57484883-C3D4-4F77-BD56-AB264D809611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBAB1439-CFB9-49C2-BC2C-85895304199D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAB1439-CFB9-49C2-BC2C-85895304199D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAB1439-CFB9-49C2-BC2C-85895304199D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAB1439-CFB9-49C2-BC2C-85895304199D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3EA414C-332D-44F1-8DFA-81986ED2E4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3EA414C-332D-44F1-8DFA-81986ED2E4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3EA414C-332D-44F1-8DFA-81986ED2E4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3EA414C-332D-44F1-8DFA-81986ED2E4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57484883-C3D4-4F77-BD56-AB264D809611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57484883-C3D4-4F77-BD56-AB264D809611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57484883-C3D4-4F77-BD56-AB264D809611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57484883-C3D4-4F77-BD56-AB264D809611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
